@@ -1,5 +1,5 @@
 # sublime_config
-{
+```{
 	"auto_complete_selector": "source, text",
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
@@ -37,3 +37,4 @@
 	"ui_separator": true,
 	"use_simple_full_screen": true
 }
+```
